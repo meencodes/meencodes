@@ -11,6 +11,8 @@
 
 <br/>
 
+<img src="https://komarev.com/ghpvc/?username=meencodes&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="profile views" />
+
 <!-- Social links — fill in and uncomment the ones you want
 <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
