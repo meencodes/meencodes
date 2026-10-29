@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=160&section=header&text=Ameen%20Masatae&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Bangkok%2C%20Thailand&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=160&section=header&text=Majasmee%20Masatae&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Bangkok%2C%20Thailand&descAlignY=58&descSize=18" width="100%" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=640&lines=TypeScript+end-to-end;Next.js+%7C+Angular+on+the+front;NestJS+%7C+Prisma+%7C+Postgres+on+the+back;Docker+%7C+GitHub+Actions+%7C+Nginx+to+ship+it" alt="typing" />
 
